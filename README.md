@@ -12,7 +12,7 @@ A deep learning model was constructed using a resnet34 architecture combined wit
 
 Example of an X=ray image from the validation set, the accompanying segmentation mask and prediction.
 
-<img src='img\predictions.PNG'>
+<img src='img\predictions.png'>
 
 Predictions were made on a test set of around 1000 images and the results submitted to kaggle. Achieved place 413/1050 on the public leaderboard. 
 

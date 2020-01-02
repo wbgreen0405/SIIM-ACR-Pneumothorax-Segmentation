@@ -18,5 +18,5 @@ Predictions were made on a test set of around 1000 images and the results submit
 
 Notebooks: 
 
-1. [SIIM_ACR_Pneumothorax_Competition_Data_Analysis.ipynb](SIIM_ACR_Pneumothorax_Competition_Data_Analysis.ipynb)
+1. [SIIM_ACR_Pneumothorax_Competition_Data_Analysis.ipynb](SIIM_ACR_Pneumothorax_Competition_Data_Analysis.ipynb) by: [Ekhtiar Syed](https://www.kaggle.com/ekhtiar)
 2. [Unet w/ SE Resnet50 32x4d enconder](unet-with-se-resnext50-32x4d-encoder-for-stage-2.ipynb)
